@@ -8,10 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "apexcharts": "^3.53.0",
+    "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
+    "echarts": "^5.5.1",
     "papaparse": "^5.4.1",
     "plotly.js-dist": "^2.35.2",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-echarts": "^7.0.3",
+    "vue3-apexcharts": "^1.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
